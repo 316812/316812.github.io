@@ -1,0 +1,58 @@
+코딩과 HTML
+굵게 <strong></strong>
+밑줄 <u> </u>
+제목 <h1> </h1>
+줄바꾸기 <br>
+단락바꾸기 <p></p>
+단락에 공백넣기 <p style="margin-top:40px">
+글자 사이즈 <span style="font-size:22px;">
+이미지 <img src="~.jpg" width="100%">
+
+<ul>
+    <li>리스트1</li>
+    <li>리스트2</li>
+    <li>리스트3</li>
+</ul>
+li태그는 반드시 부모태그를 갖고 있다.
+ul태그는 반드시 자식태그를 갖고 있다.
+<ol>자동으로 숫자 넘버링 되는 목록
+
+<table>
+<tr>
+<td>head</td>
+<td>92%</td>
+</table>
+
+<tiltle>소모사 소설모임사이트</title>
+<meta charset="utf-8">
+
+<!doctype html>
+<html>
+<head></head>
+<body></body>
+</html>
+
+웹호스팅 사이트
+free static web hosting
+1. www.bitballon.com
+2. neocities.org/
+3. amazon S3
+4. Google Cloud Storage
+5. Azure Blob
+
+댓글서비스
+DISQUS
+liveRe
+
+<font color="">
+없는셈치기 <!--  -->
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+css 시작
+css라는걸 알려야한다 <style> </style>
+a를 전부 레드로 바꿔줘  a{color:red;}   = a는 selector  
+텍스트에 있는 모든 꾸밈을 없게해줘   text-decoration: none;
+태그선택자 a -> class선택자 .~ -> id선택자 #~
+
+
+
+
